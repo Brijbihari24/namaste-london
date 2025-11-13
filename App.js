@@ -1,3 +1,5 @@
+var a = 10;
+
 const heading = React.createElement(
     "div",
     { id: "parent" }, [
